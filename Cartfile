@@ -1,0 +1,2 @@
+github "danielgindi/Charts" ~> 3.5.0
+git "git@sfgitlab.opr.statefarm.org:enterprise-ios-libraries/BlackBerrySDK.git" ~> 6.2 "master"
